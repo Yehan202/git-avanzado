@@ -3,7 +3,7 @@
 
 
 #ignora
-*.holamundo
+holamundo/
 
 
 ### Python ###
